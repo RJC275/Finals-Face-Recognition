@@ -114,7 +114,8 @@ for (top,right, bottom, left), face_encoding in zip(face_locations, face_encodin
 
 cv2_imshow(unknown_image_to_draw)
 ```
-![image]()
+![image](https://github.com/RJC275/face_recognition/assets/144230425/8bb1c222-458e-4d0f-a52a-19bf0b7b1668)
+)
 
 ✅**Park Eun Bin:**
 
@@ -140,7 +141,8 @@ for (top,right, bottom, left), face_encoding in zip(face_locations, face_encodin
 
 cv2_imshow(unknown_image_to_draw)
 ```
-![image]()
+![image](https://github.com/RJC275/face_recognition/assets/144230425/0530ad39-549f-42ad-8f39-aeba4455cdca)
+
 
 ✅**Kim Soo Hyun:**
 
@@ -166,7 +168,8 @@ for (top,right, bottom, left), face_encoding in zip(face_locations, face_encodin
 
 cv2_imshow(unknown_image_to_draw)
 ```
-![image]()
+![image](https://github.com/RJC275/face_recognition/assets/144230425/3d18cf7a-5be9-44ba-936f-f027a8396a9f)
+
 
 
 ✅**Kim Su Gyeom:**
@@ -192,7 +195,8 @@ for (top,right, bottom, left), face_encoding in zip(face_locations, face_encodin
 
 cv2_imshow(unknown_image_to_draw)
 ```
-![image]()
+![image](https://github.com/RJC275/face_recognition/assets/144230425/558dfb66-6295-4df3-ac6d-3ca2e41af9a2)
+
 
 ✅**Park Hae Soo:**
 ```
@@ -217,7 +221,8 @@ for (top,right, bottom, left), face_encoding in zip(face_locations, face_encodin
 
 cv2_imshow(unknown_image_to_draw)
 ```
-![image]()
+![image](https://github.com/RJC275/face_recognition/assets/144230425/4dd708c5-26a1-4291-b444-bb162132e742)
+
 
 ### ✅**Ten Unknown Celebrities:**
 ```
