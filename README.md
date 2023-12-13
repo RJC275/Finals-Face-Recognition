@@ -77,9 +77,9 @@ known_face_names = [
 
 
 <div align="justify">
-The code below analyzes an "unknown_em.jpeg" image using facial recognition techniques with the `face_recognition` library and OpenCV in Python.
+The code below analyzes an "unknown_chw.jpeg" image using facial recognition techniques with the `face_recognition` library and OpenCV in Python.
 
-✅ **Image Loading:** It loads the "kim su gyeom.png" image and prepares it for analysis using `face_recognition.load_image_file` and `cv2.imread`.
+✅ **Image Loading:** It loads the "Choi hyun wook.png" image and prepares it for analysis using `face_recognition.load_image_file` and `cv2.imread`.
 
 ✅**Face Detection:** The code identifies face locations within the unknown image using `face_recognition.face_locations`.
 
