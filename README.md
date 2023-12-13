@@ -247,7 +247,8 @@ for (top,right, bottom, left), face_encoding in zip(face_locations, face_encodin
 
 cv2_imshow(unknown_image_to_draw)
 ```
-![image]()
+![image](https://github.com/RJC275/face_recognition/assets/144230425/3d611373-6568-4b21-a7d1-f930a0256aab)
+
 
 ```
 file_name = "d1.jpg"
@@ -271,7 +272,8 @@ for (top,right, bottom, left), face_encoding in zip(face_locations, face_encodin
 
 cv2_imshow(unknown_image_to_draw)
 ```
-![image]()
+![image](https://github.com/RJC275/face_recognition/assets/144230425/70308feb-db37-45ec-811d-1334028e2c0c)
+
 ```
 file_name = "d2.png"
 unknown_image = face_recognition.load_image_file(file_name)
@@ -294,7 +296,8 @@ for (top,right, bottom, left), face_encoding in zip(face_locations, face_encodin
 
 cv2_imshow(unknown_image_to_draw)
 ```
-![image]()
+![image](https://github.com/RJC275/face_recognition/assets/144230425/64aca782-e118-4e71-a3db-d774f8e6c0d9)
+
 ```
 file_name = "d3.jpg"
 unknown_image = face_recognition.load_image_file(file_name)
@@ -317,7 +320,8 @@ for (top,right, bottom, left), face_encoding in zip(face_locations, face_encodin
 
 cv2_imshow(unknown_image_to_draw)
 ```
-![image]()
+![image](https://github.com/RJC275/face_recognition/assets/144230425/d898aa5c-a43e-4b39-be7f-c99d12bb2067)
+
 ```
 file_name = "d4.jpg"
 unknown_image = face_recognition.load_image_file(file_name)
@@ -340,7 +344,8 @@ for (top,right, bottom, left), face_encoding in zip(face_locations, face_encodin
 
 cv2_imshow(unknown_image_to_draw)
 ```
-![image]()
+![image](https://github.com/RJC275/face_recognition/assets/144230425/4ce879bd-ee56-43a3-87c6-ca6e3adbdbd7)
+
 ```
 file_name = "d5.jpg"
 unknown_image = face_recognition.load_image_file(file_name)
@@ -363,7 +368,8 @@ for (top,right, bottom, left), face_encoding in zip(face_locations, face_encodin
 
 cv2_imshow(unknown_image_to_draw)
 ```
-![image]()
+![image](https://github.com/RJC275/face_recognition/assets/144230425/1d6561c4-f7c5-43cc-8c75-3edf4d451e6b)
+
 ```
 file_name = "d6.webp"
 unknown_image = face_recognition.load_image_file(file_name)
@@ -386,7 +392,8 @@ for (top,right, bottom, left), face_encoding in zip(face_locations, face_encodin
 
 cv2_imshow(unknown_image_to_draw)
 ```
-![image]()
+![image](https://github.com/RJC275/face_recognition/assets/144230425/3e66160b-693b-4f78-87af-deef41d6ca59)
+
 ```
 file_name = "d7.jpg"
 unknown_image = face_recognition.load_image_file(file_name)
@@ -409,7 +416,8 @@ for (top,right, bottom, left), face_encoding in zip(face_locations, face_encodin
 
 cv2_imshow(unknown_image_to_draw)
 ```
-![image]()
+![image](https://github.com/RJC275/face_recognition/assets/144230425/1ce546e5-c31c-4272-bf3e-9b2a04b572ab)
+
 ```
 file_name = "d8.jpg"
 unknown_image = face_recognition.load_image_file(file_name)
@@ -432,7 +440,8 @@ for (top,right, bottom, left), face_encoding in zip(face_locations, face_encodin
 
 cv2_imshow(unknown_image_to_draw)
 ```
-![image]()
+![image](https://github.com/RJC275/face_recognition/assets/144230425/c2bd00e1-9e77-4ce4-b118-2fa4915bb772)
+
 ```
 file_name = "d9.jpg"
 unknown_image = face_recognition.load_image_file(file_name)
@@ -455,4 +464,5 @@ for (top,right, bottom, left), face_encoding in zip(face_locations, face_encodin
 
 cv2_imshow(unknown_image_to_draw)
 ```
-![image]()
+![image](https://github.com/RJC275/face_recognition/assets/144230425/f85bf177-46ef-4682-a495-9b82d93e3600)
+
